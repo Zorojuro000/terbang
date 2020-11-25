@@ -2,11 +2,11 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Aris187 ID).
 */
-const BotName = '👾AR15BOT👾'; // Nama Bot Whatsapp
+const BotName = '👾ZOROJURO👾'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/_sadboy.ig'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/+6285722553839'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // OFFICIAL GRUP LU 1
+const grupch1 = 'https://chat.whatsapp.com/E9JqJLM4KNR7ELsCX8uV7A'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // OFFICIAL GRUP LU 2
 const grupch3 = 'https://instagram.com/_sadboy.ig'; // OFFICIAL GRUP LU 3
 //
