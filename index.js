@@ -1,6 +1,6 @@
 /*
-* "Jangan modal nama doang bro!!!"
-* (Scriptnya Aris187 ID).
+* "Jangan lupa bahagia!!!"
+* (Script Termux).
 */
 const BotName = '👾ZOROJURO👾'; // Nama Bot Whatsapp
 const instagramlu = ''; // Nama Instagramlu cok
