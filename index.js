@@ -2,7 +2,7 @@
 * "Jangan lupa bahagia!!!"
 * (Script Termux).
 */
-const BotName = '👾ZOROJURO👾'; // Nama Bot Whatsapp
+const BotName = '🤖ZOROJURO🤖'; // Nama Bot Whatsapp
 const instagramlu = ''; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/14437317174'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
