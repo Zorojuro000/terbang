@@ -3,12 +3,12 @@
 * (Scriptnya Aris187 ID).
 */
 const BotName = '👾ZOROJURO👾'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/_sadboy.ig'; // Nama Instagramlu cok
+const instagramlu = ''; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/14437317174'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/E9JqJLM4KNR7ELsCX8uV7A'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // OFFICIAL GRUP LU 2
-const grupch3 = 'https://instagram.com/_sadboy.ig'; // OFFICIAL GRUP LU 3
+const grupch2 = ''; // OFFICIAL GRUP LU 2
+const grupch3 = ''; // OFFICIAL GRUP LU 3
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -889,7 +889,7 @@ if (text.includes(".alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah Aris187 ID
+//Terima Kasih
 
 
 })
