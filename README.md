@@ -1,4 +1,4 @@
-# 🤖ZOROJURO🤖
+# 🤖XBanner🤖
 BOT WHATSAPP TERMUX ONLY
 
 ### Alat dan Bahan
@@ -29,8 +29,8 @@ Script ini di modifikasi.
 
 ## Features
 
-| ZOROJURO      |                   Feature        |
-| :-----------: | :------------------------------: |
+|    XBanner     |               Feature            |
+| :-----------:  | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
 |       ✅       | Covid (new)                      |
@@ -71,7 +71,7 @@ Ket: Aktiv 24 jam
 BOT INI KHUSUS HP/TERMUX DOANG YAH
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_zorojuro.ig)
+* [`Youtube Admin`](https://www.youtube.com/channel/UC-eqR2pnKeuP-H1TQFpmKCQ)
+* [`Instagram Admin`](https://instagram.com/_xbanner.ig)
 * [`WhatsApp Admin `](https://wa.me/14437317174)
 
